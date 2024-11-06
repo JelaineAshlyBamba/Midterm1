@@ -1,0 +1,14 @@
+D:\Documents\midterm\TreeStuctureMenu\bin\Debug\net8.0\TreeStuctureMenu.exe
+D:\Documents\midterm\TreeStuctureMenu\bin\Debug\net8.0\TreeStuctureMenu.deps.json
+D:\Documents\midterm\TreeStuctureMenu\bin\Debug\net8.0\TreeStuctureMenu.runtimeconfig.json
+D:\Documents\midterm\TreeStuctureMenu\bin\Debug\net8.0\TreeStuctureMenu.dll
+D:\Documents\midterm\TreeStuctureMenu\bin\Debug\net8.0\TreeStuctureMenu.pdb
+D:\Documents\midterm\TreeStuctureMenu\obj\Debug\net8.0\TreeStuctureMenu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\midterm\TreeStuctureMenu\obj\Debug\net8.0\TreeStuctureMenu.AssemblyInfoInputs.cache
+D:\Documents\midterm\TreeStuctureMenu\obj\Debug\net8.0\TreeStuctureMenu.AssemblyInfo.cs
+D:\Documents\midterm\TreeStuctureMenu\obj\Debug\net8.0\TreeStuctureMenu.csproj.CoreCompileInputs.cache
+D:\Documents\midterm\TreeStuctureMenu\obj\Debug\net8.0\TreeStuctureMenu.dll
+D:\Documents\midterm\TreeStuctureMenu\obj\Debug\net8.0\refint\TreeStuctureMenu.dll
+D:\Documents\midterm\TreeStuctureMenu\obj\Debug\net8.0\TreeStuctureMenu.pdb
+D:\Documents\midterm\TreeStuctureMenu\obj\Debug\net8.0\TreeStuctureMenu.genruntimeconfig.cache
+D:\Documents\midterm\TreeStuctureMenu\obj\Debug\net8.0\ref\TreeStuctureMenu.dll
